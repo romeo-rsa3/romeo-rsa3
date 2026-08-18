@@ -33,7 +33,7 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ## 🔗 Featured Projects
-- **[Orbit Messenger]([https://github.com/romeo-rsa3/OrbitMessenger](https://romeo-rsa3.github.io/OrbitMessanger-/))** — Real-time chat app with live messaging, authentication, and persistent history (Electron, Node.js, Socket.IO, MongoDB)
+- **[Orbit Messenger](https://romeo-rsa3.github.io/OrbitMessanger-/)** — Real-time chat app with live messaging, authentication, and persistent history (Electron, Node.js, Socket.IO, MongoDB)
 - **[Posh Performance](https://github.com/romeo-rsa3/PoshPerformance)** — Car inventory management system (Python, HTML, CSS, JS)
 - **[Campus Compass](https://github.com/romeo-rsa3/campusCompass)** — React-based campus navigation platform
 - **[Jama Protection Services](https://romeo-rsa3.github.io/Jama-Protection-Services-Website/)** — A real time security company website with working quote requests for clients
