@@ -20,13 +20,17 @@
 
 ![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
 
+**Deployment**
+
+![Deployment](https://skillicons.dev/icons?i=render,netlify,vercel)
+
 **Cloud**
 
 ![Cloud](https://skillicons.dev/icons?i=azure,aws)
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 
 ## 🔗 Featured Projects
 - **[Orbit Messenger](https://github.com/romeo-rsa3/OrbitMessenger)** — Real-time chat app with live messaging, authentication, and persistent history (Electron, Node.js, Socket.IO, MongoDB)
