@@ -1,10 +1,10 @@
 # Hi, I'm Romeo Manyike 👋
 
-🎓 BSc Information Technology Graduate — North-West University
-💻 Software Developer | Full-Stack & Backend | Node.js, React, Python, MongoDB
-👨‍🏫 Former C++ Programming Student Assistant — supported 200+ students
-📊 Former Accounting Student Assistant
-🌍 Based in Midrand, Johannesburg — open to graduate programmes & junior developer roles
+**🎓 BSc Information Technology Graduate — North-West University**
+**💻 Software Developer | Full-Stack & Backend | Node.js, React, Python, MongoDB**
+**👨‍🏫 Former C++ Programming Student Assistant — supported 200+ students**
+**📊 Former Accounting Student Assistant**
+**🌍 Based in Midrand, Johannesburg — open to graduate programmes & junior developer roles**
 
 ## 🚀 Tech Stack
 
