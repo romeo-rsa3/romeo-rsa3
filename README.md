@@ -39,7 +39,7 @@
 - **[Jama Protection Services](https://romeo-rsa3.github.io/Jama-Protection-Services-Website/)** — A real time security company website with working quote requests for clients
 - **[The Velvet Needle](https://romeo-rsa3.github.io/the-velvet-needle/)** — A real time tattoo website with working quote requests for clients that links to whatsapp.
 
-**Contact:**
+## **Contact:**
 - **Email: manyikeromeo03@gmail.com**
 - **Phone: 067 611 2368**
 - **LinkedIn: [LinkedIn](https://www.linkedin.com/in/romeo-manyike-24568032b/)**
